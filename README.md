@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Klaus!
 
-I'm an **embedded software developer** based in Brazil, passionate about **new technologies**, **embedded systems**, **automation**, and **IoT**. I'm always looking for new challenges and opportunities to learn and grow. I have experience developing **firmware** for **microcontrollers** and **microprocessors**, as well as designing **PLCs for industrial automation**. I have an **electronics technician degree** and I'm pursuing a degree in **computer engineering**. I love to tinker with my projects, especially those embedded-related.
+I'm an **embedded software developer** based in Brazil, passionate about **new technologies**, **embedded systems**, **automation**, and **IoT**. I'm always looking for new challenges and opportunities to learn and grow. I have experience developing **firmware** for **microcontrollers** and **microprocessors**, as well as designing **PLCs for industrial automation**. I have an **Electronics Technician Course** and I'm pursuing a degree in **Computer Engineering**. I love to tinker with my projects, especially those embedded-related.
 
 ## 👨🏻‍💻 **About Me**
 - 📚 I'm currently studying **Computer Engineering** at [**UNISINOS**](https://www.unisinos.br/).
-- 🎓 I hold an **Electronics Technician Degree** at [**Liberato**](https://www.liberato.com.br/)
+- 🎓 I hold an **Electronics Technician Course** at [**Liberato**](https://www.liberato.com.br/)
 - 💼 I'm currently working in the R&D team of [**Altus Automation Systems**](https://www.altus.com.br/en) as an **Embedded Software Developer**.
 - 🌱 I'm starting my back-end journey by learning **Go (Golang)**.
 - ⌛ In my spare time, I enjoy exploring new technologies and enhancing my skills in **electronics** and **software development**.
